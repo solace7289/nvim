@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=FdJbm9ht9z0&list=PL-PrH9kEJIAYs02IJ0tfVTYVu4cYJv
 https://www.youtube.com/watch?v=qzKg0FeNRZ8&t=22s
 https://youtu.be/wm9KyUMmX60?si=_nA-ix5ZU_xRY5hC
 https://www.youtube.com/watch?v=T20Jn86msB8&t
+<<<<<<< HEAD
 -------------------------------------------------------------------------------------
 
 0775379296 - laptop lenovo | 
@@ -68,5 +69,8 @@ Em Sơn: 0362690502
 
 
 
+=======
+https://www.youtube.com/watch?v=AQO_Sn_gfoA&list=PLXMlrOJOKuk404J_oFFv7drHkCHFgwTc2&index=73
+>>>>>>> ea0c19d80e45776c7b7b53e74514bcaaa405670b
 
 
