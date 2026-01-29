@@ -11,6 +11,10 @@ setx là lệnh của Windows để ghi biến môi trường vào hệ thống 
 
 Sau khi chạy, giá trị được lưu vĩnh viễn, dùng cho các cửa sổ CMD mở sau.
 
+-------------------
+Code crack office:
+
+powershell iex (irm https://get.activated.win)
 
 
 
