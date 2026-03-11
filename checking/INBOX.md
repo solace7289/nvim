@@ -11,6 +11,9 @@
 - Open file foder by terminal: `xdg-open .`
 - move file: `mv [file_name] [direct of end folder place]`
 
+- browser for linux: 
+- gõ tiếng việt: fcitx5
+- 
 
 ### CSS, react, vue
 
